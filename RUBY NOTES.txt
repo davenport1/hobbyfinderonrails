@@ -1,0 +1,28 @@
+RUBY NOTES
+
+
+For new page need: 
+	1) index: new html file
+	2) controller
+	3) route to new page
+
+partials indicated by "_" in front of file name
+
+generator does this for you
+
+views -> home directory ->right clickl -> new file
+	needs to be .html.erb
+
+CRUD
+	4 basic functions that models should be able to do
+	1) create
+	2) read
+	3) update 
+	4) delete
+
+
+scaffold: 
+	rails g scaffold
+
+	creates everything nescessary for the database
+		need to name it something
